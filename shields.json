@@ -1,1 +1,1 @@
-{"v-deploy":{"label":"Deploy","status":"success","color":"green"}}
+{"v-deploy":{"label":"Deploy","status":"success","color":"green"},"v-front":{"label":"Build Frontend","status":"failure","color":"red"}}
